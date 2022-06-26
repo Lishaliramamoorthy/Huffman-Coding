@@ -1,4 +1,6 @@
-# Huffman-Coding
+## EX NO:12
+## DATE:18.6.22
+# <p align="center">Huffman-Coding
 
 ## Aim
 To implement Huffman coding to compress the data using Python.
@@ -25,11 +27,9 @@ Print the characters and its huffmancode.
 
 ## Program:
 
-##  Developed by: Lishali R
-## Register Number: 212220230028
-
-
 ``` Python
+    Developed by:Lishali.R
+    Register No:212220230028
 # Get the input String
 string = 'Lishaaa'
 class NodeTree(object):
